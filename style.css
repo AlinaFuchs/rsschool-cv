@@ -1,0 +1,107 @@
+body {
+    background-color:ghostwhite;
+    font-family: 'Roboto', sans-serif;
+    
+    
+}
+
+h1{
+    color:darkslategray;   
+    font-size:36px;
+}
+
+ h2, h3  {
+    color:darkslategray;
+   
+}
+
+h4 {
+    color:sienna;
+    font-weight: 300;
+    
+}
+p {
+    color: darkslategray;
+}
+
+a {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+hr {
+    height:2px;
+  border:none;
+    background-color: darkslategray;
+    color: darkslategray;
+}
+
+li {
+    color: sienna;
+   font-size: 16px;
+}
+
+.degree {
+    font-weight: 600;
+}
+
+
+
+.container {
+  margin-left:10%;
+  margin-right: 10%;
+  
+}
+
+.header-block {
+  display: flex;
+  justify-content: space-between;
+   padding-top: 1.5em; 
+ }
+
+ .contacts {
+    
+     width: 60%;
+     text-align: left;
+     }
+
+.cv-pic {
+   margin-right: 150px;
+    width:170px;
+    height:170px;
+    border-radius: 50%;
+  
+   margin-top:30px;
+}
+
+.content {
+    display: flex;
+   justify-content: space-between;
+   margin-top: 2em;
+ 
+   
+}
+
+
+
+.right {
+   margin-right:5%;
+   margin-left:5%;
+   padding-right:15%;
+
+}
+
+.left {
+    margin-left:5%;
+ margin-right: 5%;
+ padding-left:5%; 
+}
+
+
+.fas, .fab {
+    color: sienna;
+    margin-right: 10px;
+}
+
+
+ 
